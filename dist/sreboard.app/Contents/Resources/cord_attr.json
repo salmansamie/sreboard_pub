@@ -1,0 +1,59 @@
+
+{
+  "sre_schedule":{
+      "Application" : "Google Chrome",
+      "appHeight" : "620",
+      "appWidth" : "1920",
+      "X-ordinate" : "0",
+      "Y-ordinate" : "0"
+  },
+
+  "thousand_eyes":{
+      "Application" : "Google Chrome",
+      "appHeight" : "580",
+      "appWidth" : "971",
+      "X-ordinate" : "(screenwidth - appwidth)",
+      "Y-ordinate" : "0"
+  },
+
+    "sky_live":{
+      "Application" : "Google Chrome",
+      "appHeight" : "540",
+      "appWidth" : "960",
+      "X-ordinate" : "2880",
+      "Y-ordinate" : "540"
+  },
+
+    "xymon_hi":{
+      "Application" : "Google Chrome",
+      "appHeight" : "1080",
+      "appWidth" : "981",
+      "X-ordinate" : "1920",
+      "Y-ordinate" : "0"
+  },
+
+    "datacenter_ins":{
+      "Application" : "Google Chrome",
+      "appHeight" : "1080",
+      "appWidth" : "1920",
+      "X-ordinate" : "0",
+      "Y-ordinate" : "0"
+  },
+
+    "bigdata_stats":{
+      "Application" : "Google Chrome",
+      "appHeight" : "1080",
+      "appWidth" : "1920",
+      "X-ordinate" : "1920",
+      "Y-ordinate" : "0"
+  },
+
+    "adium_irc":{
+      "Application" : ":Applications:Adium.app",
+      "appHeight" : "620",
+      "appWidth" : "1920",
+      "X-ordinate" : "0",
+      "Y-ordinate" : "0"
+  }
+
+}
