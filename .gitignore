@@ -1,0 +1,10 @@
+.iml/
+.idea/
+.git/
+.DS_Store
+
+.data.py
+.rsvd_var.sh
+
+puppet_deploy.sh
+sync_hosts.sh
